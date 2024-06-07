@@ -3,12 +3,14 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=Bem+vindo+ao+meu+perfil+do+GitHub!+:😎%29)](https://github.com/Esbson0722)
 
 
-## Conecte-se comigo pelos clicando nos links a seguir
+## Conecte-se comigo pelos links a seguir
 [![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-0077B5?style=for-the-badge&logo=gitbook&logoColor=white)](https://www.dio.me/users/esbsonalmeida1608)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esbson-evangelista-almeida-221314235/)
 
 ## Sobre mim
-Meu nome e Esbson e estou em busca de novos desafios na minha carreira profissional, atualmente trabalho na área da segurança privada, e venho buscado minha transição de carreira pois estou cursando Analise e Desenvolvimento de Sistemas pela Universidade Cuzeiro do Sul.
+Meu nome e Esbson e estou em busca de novos desafios na minha carreira profissional, atualmente trabalho na área da segurança privada, e venho buscado minha transição de carreira pois estou cursando Analise e Desenvolvimento de Sistemas pela Universidade Cuzeiro do Sul.<br/>
+Neste momento estou em busca de um ambiente onde eu possa desenvolver minhas abilidades e conribuir da melhor maneira possivel.
+
 
 ## Buscando me capacitar cada dia mais nas linguagens a seguir 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
